@@ -8,7 +8,7 @@ Follow the following commands to get it started.
 
 ##### Step 1:
 Clone the repo
-```
+```git
     git clone https://github.com/codeat3/talksatconfs-ui.git
 ```
 
@@ -20,6 +20,6 @@ Install all the packages
 
 ##### Step 3:
 Run the build process to generate a css
-```
+```js
     npm run build
 ```
